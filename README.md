@@ -25,5 +25,14 @@ Và rồi, tôi không bỏ cuộc. Vẫn tiếp tục sử dụng quãng thời
 
 ![image](https://github.com/user-attachments/assets/3bb8052b-a2ae-44ba-8f81-fd369813d4f2)<sup>\
 Rất đẹp. Bức ảnh được chụp vào ngày 30/7/2024, lúc 9:17 tối.
+Server đã vượt xa kì vọng của tôi, khi những tấm ảnh Leak xuất hiện, có rất nhiều anh em đã vô cùng háo hức và mong chờ ngày ra mắt. Và khi Server mở vào ngày đầu tiên, có đến hàng chục anh em ngồi vào Mic (trong lúc tôi đang lau nhà) và tận hưởng Server. Có lẽ đó là những khoảng thời gian tôi thật sự enjoy những công sức của tôi làm ra.
+**Sự sụp đổ**
+Tất nhiên bạn biết đấy, niềm vui sẽ chẳng bao giờ kéo dài mãi mãi. Việc Server có hệ thống Mods quá khó chơi, không phù hợp với địa hình thế giới hữu hạn của Map đã khiến cho nhiều anh em bỏ game. Và rồi chúng tôi đã có tinh chỉnh lại một số thứ, nhưng dần dần Server lại càng thụt lùi dần đi. Bọn tôi cũng chẳng dám mở bất kì một Server nào quá đầu tư thời gian nữa - vì thời gian nghỉ hè đang dần kết thúc. Có lẽ đây là dấu chấm hết?
+
+## TheOperaHouse2024
+Server này tôi mở ra với mong muốn tìm lại kí ức vào những năm tháng khi đại dịch Covid đang diễn ra (năm 2022) khi mà tôi ở nhà và chơi Minecraft giải khuây cùng với những anh em OG của The Opera House. Một thế giới phẳng, không luật lệ và chúng tôi đã xây dựng bất cứ thứ gì mình muốn.
+ 
+![image](https://github.com/user-attachments/assets/91888327-3aa3-4667-896c-e4762580a764)<sup>\
+Nó trông như thế này :)) Tôi chụp vào ngày 20/8/2024, lúc 8:52 tối. </sup>
 
 
