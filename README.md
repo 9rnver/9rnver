@@ -80,11 +80,11 @@ Cũng có thể việc làm Scavanna's Sphere Remake đối với mình là mộ
 **Một khoảng thời gian thật ngắn ngủi, lúc nào cũng thế. Tại sao tôi lại vẫn đâm đầu vào những thứ y hệt trong gần 1 năm qua mặc dù chẳng nhận lại bất cứ thành công nào?**\
 Tôi khẳng định lại là tôi chẳng tiếc về những việc mà tôi đã làm, tôi chỉ tiếc rằng anh em chưa đón nhận nó một cách bao trùm và tổng quát. Còn rất nhiều content thú vị mà anh em đã bỏ qua một cách phũ phàng. Tôi cũng thừa nhận rằng đầu óc của một thằng học sinh 17 tuổi nghĩ ra được một Server như này cũng đã là hay lắm rồi, mặc dù còn nhiều hạn chế. Nên tôi chẳng tiếc đâu.
 
-**Server sẽ đóng vĩnh viễn sao?**
+**Server sẽ đóng vĩnh viễn sao?**\
 Maybe. Có nhiều anh em đã kêu gọi mình archive lại Scavanna's Sphere (vì họ cảm thấy chán về tôi, cũng dễ hiểu thôi)
 2 Điều đã thúc đẩy mạnh mẽ việc tôi đóng cửa Server đó là: **động lực và thời gian.** Mình chuẩn bị vào năm học cuối cấp rồi, phải học rất vất vả, đồng thời cũng chẳng còn hơi sức đâu mà duy trì một Server Minecraft nữa. Nếu trong tương lai điều kiện khá hơn và có động lực trở lại thì mình có thể mở lại Server với bộ mặt hoàn toàn khác.
 
-**Ông có định bỏ Minecraft không?**
+**Ông có định bỏ Minecraft không?**\
 Chắc chắn là không. Nó là thứ gắn liền với tuổi thơ tôi. Cho đến hiện tại dù tần suất chơi không được nhiều như trước nữa. Nhưng mình vẫn thi thoảng nghĩ một số Event hay ho giúp anh em khuây khỏa cũng như tạo một số Content cho Server The Opera House.
 
 ## Kael và Nick - 2 người bạn
