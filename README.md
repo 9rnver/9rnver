@@ -93,6 +93,8 @@ Tôi và Đình, hai người ít kinh nghiệm, không có ai chỉ dạy, khô
 Tiện đây phải nói lời cảm ơn lần thứ n dành cho người anh em của tôi, người mà cứ thế tham gia vào dự án của tôi mà không bàn luận ý kiến gì, mặc dù chưa chắc là nó đã thành công. Đóng góp của tôi là 10 phần thì của Đình là phải 100 phần. Mọi mong muốn, ước mơ của tôi đều có một tay Đình kéo đến. Phải nói là như vậy.
 
 # Kết
-Alright, cảm ơn tất cả anh em đã bỏ thời gian ra đọc tâm thư của mình.
+Alright, cảm ơn tất cả anh em đã bỏ thời gian ra đọc tâm thư của tôi
+.
 Tôi vẫn luôn đồng hành với The Opera House, tất nhiên rồi. Vì có lẽ thiếu tôi The Opera House không sống quá nổi 1 tuần :))
-Nếu sau này dư dả thời gian, hẹn gặp lại anh em trong những dự án tiếp theo của mình!
+
+Nếu sau này dư dả thời gian, hẹn gặp lại anh em trong những dự án tiếp theo của tôi!
