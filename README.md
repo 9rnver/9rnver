@@ -1,0 +1,15 @@
+# Tương lai của Scavanna's Sphere, hay The Opera House?
+Chào mọi người, lại là Khánh a.k.a n1ck - Admin của The Opera House đây. Mình xin thông báo rằng, Scavanna's Sphere sẽ đóng cửa vào ngày 8/6/2025. Mọi kênh luên quan trong server Discord sẽ được archive lại sau khi tôi thông báo.
+
+Cụm Server sẽ tiếp tục duy trì trước giờ đóng cửa, nên cứ thoải mái xây dựng tiếp hoặc chơi tiếp, đi vòng quanh ôn lại kỉ niệm vô cùng ngắn ngủi. Sau giờ này, Server sẽ đóng hoàn toàn và không thể vào lại được nữa. File World của sẽ được archive và upload lên Drive.
+## Tại sao lại phải đóng cửa?
+Suy cho cùng, dự án này hoàn toàn là do mong muốn của riêng mình tôi chứ không ai khác. Không chỉ là việc yêu thích Minecraft, mà còn muốn xây dựng lại cộng đồng The Opera House đang ngày càng dần ít vui và hứng thú. Và có lẽ mình đã cố gắng hoàn thành điều đó.
+
+Lượng người chơi không đạt được như kì vọng, Server còn rất nghèo nàn về content, hệ thống rời rạc, thiếu Content nên việc giữ chân người chơi rất khó, và dần hết hứng thú. Có lẽ Server chỉ thực sự sống vào những ngày đầu tiên - ngày mới mở cửa. Đồng thời, mình cũng đã khá demotivated và không còn nhiều thời gian rảnh rỗi nên có lẽ chặng đường sẽ phải kết thúc ở đây.
+## Tâm sự
+Well, từ những ngày đầu tập tành xây dựng một Server Minecraft có một lối chơi riêng của mình đã nhen nhóm từ năm ngoái. Nó là một phần trong sự trưởng thành của mình, là nơi giúp mình tái thiết lại The Opera House khi nó đã thật sự ít hoạt động (kể từ 2022). Nhờ nó mà mình học được rất nhiều thứ, nhưng kiến thức chưa thấy đâu mà chỉ toàn là thất bại :))
+
+**Bắt đầu**
+
+Nhớ từ những ngày đầu nghĩ ra ý tưởng khá là hay ho và thú vị, đó là lấy một con Map rất hay trên mạng mình đã chơi 3 năm về trước để remade và chia sẻ nó với anh em trong The Opera House. Đó là Scavanna's Sphere. Và mình đã cùng [nalifday](https://discord.com/users/955014184784003113) - hai người đã có kế hoạch tạo một Server với Map có địa hình tuyệt vời và giới thiệu cho anh em cùng chơi. Với hàng tá Mods được chắt lọc, cả 2 đã dần dần biến ý tưởng độc đáo đó thành hiện thực.
+![image]
