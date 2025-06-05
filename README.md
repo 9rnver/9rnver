@@ -1,5 +1,5 @@
 # Tương lai của Scavanna's Sphere, hay The Opera House?
-Chào mọi người, lại là Khánh a.k.a n1ck - Admin của The Opera House đây. Mình xin thông báo rằng, Scavanna's Sphere sẽ đóng cửa vào ngày 8/6/2025. Mọi kênh luên quan trong server Discord sẽ được archive lại sau khi tôi thông báo.
+Chào mọi người, lại là Khánh a.k.a n1ck - Admin của The Opera House đây. Mình xin thông báo rằng, Scavanna's Sphere sẽ đóng cửa vào ngày 8/6/2025. Mọi kênh liên quan trong server Discord sẽ được archive lại sau thông báo.
 
 Cụm Server sẽ tiếp tục duy trì trước giờ đóng cửa, nên cứ thoải mái xây dựng tiếp hoặc chơi tiếp, đi vòng quanh ôn lại kỉ niệm vô cùng ngắn ngủi. Sau giờ này, Server sẽ đóng hoàn toàn và không thể vào lại được nữa. File World của sẽ được archive và upload lên Drive.
 ## Tại sao lại phải đóng cửa?
@@ -9,7 +9,21 @@ Lượng người chơi không đạt được như kì vọng, Server còn rấ
 ## Tâm sự
 Well, từ những ngày đầu tập tành xây dựng một Server Minecraft có một lối chơi riêng của mình đã nhen nhóm từ năm ngoái. Nó là một phần trong sự trưởng thành của mình, là nơi giúp mình tái thiết lại The Opera House khi nó đã thật sự ít hoạt động (kể từ 2022). Nhờ nó mà mình học được rất nhiều thứ, nhưng kiến thức chưa thấy đâu mà chỉ toàn là thất bại :))
 
-**Bắt đầu**
-
+**Bắt đầu**\
 Nhớ từ những ngày đầu nghĩ ra ý tưởng khá là hay ho và thú vị, đó là lấy một con Map rất hay trên mạng mình đã chơi 3 năm về trước để remade và chia sẻ nó với anh em trong The Opera House. Đó là Scavanna's Sphere. Và mình đã cùng [nalifday](https://discord.com/users/955014184784003113) - hai người đã có kế hoạch tạo một Server với Map có địa hình tuyệt vời và giới thiệu cho anh em cùng chơi. Với hàng tá Mods được chắt lọc, cả 2 đã dần dần biến ý tưởng độc đáo đó thành hiện thực.
-![image]
+
+![image](https://media.discordapp.net/attachments/1048448442868965397/1262681502987059291/image.png?ex=6842a149&is=68414fc9&hm=c1fecdcc1f234091a491c1bb08e3bebdb15dbbce5212b9875851c2c0969914ad&=&format=webp&quality=lossless)<sup>\
+Bức ảnh đầu tiên của Scavanna's Sphere do mình chụp vào ngày 16/7/2024. </sup>
+
+Server vận hành không được trơn tru cho lắm, cũng khá dễ hiểu - đó là Server đầu tiên mà tôi làm, hoàn toàn không có kinh nghiệm gì hết nên có rất nhiều tình trạng không như mong muốn, tôi phải nói vậy.
+
+**Quyết định sai lầm**\
+Well, có lẽ tôi đã đưa ra một quyết định có lẽ là ngu và khó hiểu nhất, khiến tôi rất ân hận về việc làm này của mình. Chỉ vì một thằng ất ơ nào đó phá hủy một công trình mà mình đã dày công xây dựng cả buổi chiều, và rồi cơn bực tức đã dẫn tới quyết định vội vàng của tôi. Thậm chí người em của tôi - [Thanh](https://discord.com/users/1195931389057572998) đã xây một cái Base to lớn cho anh em trong Server và kết cục mọi thứ đã kết thúc thật chóng vánh. Server đã đóng cửa ngay sau vụ việc đó.
+Thật sự rất đáng tiếc.
+## Teramia và những kì vọng
+Và rồi, tôi không bỏ cuộc. Vẫn tiếp tục sử dụng quãng thời gian ít ỏi đó để níu kéo lại những thứ về mình. Ngựa quen đường cũ, vẫn công thức đó nhưng cải biên và nâng cấp hơn. Tôi cùng người anh em [nalifday](https://discord.com/users/955014184784003113) tiếp tục work một phiên bản theo tôi có lẽ hoàn chỉnh hơn phần trước đó rất nhiều. Một Server có một cốt truyện riêng (tạo sự đột phá) và hàng tá những ý tưởng tôi đã biên kịch để giúp cho Server có một lượng Content đủ để giữ chân người chơi.
+
+![image](https://github.com/user-attachments/assets/3bb8052b-a2ae-44ba-8f81-fd369813d4f2)<sup>\
+Rất đẹp. Bức ảnh được chụp vào ngày 30/7/2024, lúc 9:17 tối.
+
+
